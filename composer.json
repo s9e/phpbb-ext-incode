@@ -1,0 +1,19 @@
+{
+	"name": "s9e/incode",
+	"type": "phpbb-extension",
+	"description": "Use backticks for inline code",
+	"homepage": "https://github.com/s9e/phpbb-ext-incode/",
+	"version": "1.0",
+	"keywords": ["phpbb","code"],
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"authors": [{ "name": "JoshyPHP" }],
+	"extra": {
+		"display-name": "s9e/incode",
+		"soft-require": {
+			"phpbb/phpbb": "3.2.*"
+		}
+	}
+}
