@@ -1,4 +1,4 @@
-s9e\backtick-code is a phpBB 3.2 extension that adds support for using backticks to post inline code, similarly to Markdown.
+s9e\incode is a phpBB 3.2 extension that adds support for using backticks to post inline code, similarly to Markdown.
 
 ### How to install
 
